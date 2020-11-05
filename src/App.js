@@ -10,7 +10,7 @@ function App() {
       <GlobalStyle />
       <Navbar />
       <Switch>
-        <Route path='/' exact component={Home} />
+        <Route path='/' component={Home} />
       </Switch>
       <Footer />
     </Router>
