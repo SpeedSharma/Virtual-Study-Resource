@@ -42,8 +42,8 @@ Now If I talk about the usefulness of this platform, then I can say that this pl
 	Chat bot (Siri or Google Like Assistant) 
 
 Current Status of Development: 
->> Building the prototype model.
->> Done With Landing Page.
+1) Building the prototype model.
+2) Done With Landing Page.
 
 
 
