@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/Virtual-Study-Resources/static/js/main.91f9e336.chunk.js",
-    "main.js.map": "/Virtual-Study-Resources/static/js/main.91f9e336.chunk.js.map",
-    "runtime-main.js": "/Virtual-Study-Resources/static/js/runtime-main.829f2472.js",
-    "runtime-main.js.map": "/Virtual-Study-Resources/static/js/runtime-main.829f2472.js.map",
-    "static/js/2.0d0cee06.chunk.js": "/Virtual-Study-Resources/static/js/2.0d0cee06.chunk.js",
-    "static/js/2.0d0cee06.chunk.js.map": "/Virtual-Study-Resources/static/js/2.0d0cee06.chunk.js.map",
-    "index.html": "/Virtual-Study-Resources/index.html",
-    "static/js/2.0d0cee06.chunk.js.LICENSE.txt": "/Virtual-Study-Resources/static/js/2.0d0cee06.chunk.js.LICENSE.txt",
-    "static/media/image-1.svg": "/Virtual-Study-Resources/static/media/image-1.5791892b.svg",
-    "static/media/image-2.jpg": "/Virtual-Study-Resources/static/media/image-2.61b0d9b0.jpg",
-    "static/media/image-3.svg": "/Virtual-Study-Resources/static/media/image-3.a3bfae06.svg",
-    "static/media/image-6.svg": "/Virtual-Study-Resources/static/media/image-6.312156e3.svg"
+    "main.js": "/Virtual-Study-Resource/static/js/main.5659cac8.chunk.js",
+    "main.js.map": "/Virtual-Study-Resource/static/js/main.5659cac8.chunk.js.map",
+    "runtime-main.js": "/Virtual-Study-Resource/static/js/runtime-main.be063553.js",
+    "runtime-main.js.map": "/Virtual-Study-Resource/static/js/runtime-main.be063553.js.map",
+    "static/js/2.03e3003f.chunk.js": "/Virtual-Study-Resource/static/js/2.03e3003f.chunk.js",
+    "static/js/2.03e3003f.chunk.js.map": "/Virtual-Study-Resource/static/js/2.03e3003f.chunk.js.map",
+    "index.html": "/Virtual-Study-Resource/index.html",
+    "static/js/2.03e3003f.chunk.js.LICENSE.txt": "/Virtual-Study-Resource/static/js/2.03e3003f.chunk.js.LICENSE.txt",
+    "static/media/image-1.svg": "/Virtual-Study-Resource/static/media/image-1.5791892b.svg",
+    "static/media/image-2.jpg": "/Virtual-Study-Resource/static/media/image-2.61b0d9b0.jpg",
+    "static/media/image-3.svg": "/Virtual-Study-Resource/static/media/image-3.a3bfae06.svg",
+    "static/media/image-6.svg": "/Virtual-Study-Resource/static/media/image-6.312156e3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.829f2472.js",
-    "static/js/2.0d0cee06.chunk.js",
-    "static/js/main.91f9e336.chunk.js"
+    "static/js/runtime-main.be063553.js",
+    "static/js/2.03e3003f.chunk.js",
+    "static/js/main.5659cac8.chunk.js"
   ]
 }
